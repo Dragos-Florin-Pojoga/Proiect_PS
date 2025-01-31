@@ -1,4 +1,5 @@
 # [Proiect la Probabilități și Statistică (An II)](https://github.com/Dragos-Florin-Pojoga/Proiect_PS)
+###### Pentru o experiență cât mai bună, accesați acest proiect pe GitHub folosind linkul de mai sus.
 
 # Echipa
 - Pojoga Dragoș-Florin
@@ -42,3 +43,14 @@
 > pentru a putea fi folosit, trebuie instalat [Nix : the package manager](https://nixos.org/download/) (Linux, MacOS, WSL2, ...)  
 >
 > Fișierele `.ipynb` pot fi vizualizate și folosind VsCode
+
+
+> [!IMPORTANT]
+> Instrucțiuni creare arhivă (LINUX):  
+> `mkdir ARHIVA_PROIECT_PS`  
+> `cd ARHIVA_PROIECT_PS`  
+> `git clone --recurse-submodules https://github.com/Dragos-Florin-Pojoga/Proiect_PS.git`  
+> `rm -rf ./Proiect_PS/.git`  
+> `rm -rf ./Proiect_PS/II/.git`  
+> `zip -r ./Proiect_PS.zip ./Proiect_PS`  
+> `rm -rf ./Proiect_PS`  
