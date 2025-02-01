@@ -14,7 +14,7 @@
 
 ### [Problema I](./I/README.md)
 * rezolvare:
-    * <placeholder>
+    * Rîmboi Eusebiu
 * documentație:
     * <placeholder>
 

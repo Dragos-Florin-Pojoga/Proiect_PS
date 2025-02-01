@@ -3,3 +3,4 @@
 
 
 
+# Rezolvarea, [folosind R](./rezolvare.ipynb)
