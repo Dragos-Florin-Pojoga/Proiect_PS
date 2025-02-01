@@ -15,8 +15,10 @@
 ### [Problema I](./I/README.md)
 * rezolvare:
     * Rîmboi Eusebiu
+    * Nițu teodora alexandra
 * documentație:
-    * <placeholder>
+    * Rîmboi Eusebiu
+    * Nițu teodora alexandra
 
 ### Problema II [web](https://github.com/Dragos-Florin-Pojoga/Interactive_R_graph_visualizer/blob/Proiect_PS/README.md) sau [local](./II/README.md)
 * rezolvare:

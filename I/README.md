@@ -8,22 +8,22 @@ Se considera o activitate formata din n etape parcurse secvential, fiecare avand
 Pentru implementarea acestei probleme nu a fost necesara utilizarea unor concepte sau metode care sa depaseasca nivelul cursului si laboratorului. Rezolvarea s-a bazat pe utilizarea functiilor standard din R pentru generarea de variabile aleatoare, calculul mediei si al probabilitatilor.
 
 #### Functionalitati
-• Simulare a timpului total de finalizare a activitatii
-• Generarea a 10^6 valori pentru variabila T  folosind distributia exponentiala.
-	• Estimarea valorii medii a timpului total  E(T) 
-• Calcularea mediei empirice pe baza valorilor simulate.
-• Compararea cu valoarea exacta obtinuta analitic.
-	• Analiza probabilistica a finalizarii activitatii
-• Estimarea probabilitatii ca activitatea sa fie finalizata.
-• Determinarea probabilitatii ca activitatea sa fie finalizata in mai putin de un timp  anume
-	• Identificarea limitelor timpului de finalizare
-• Determinarea timpului minim si maxim de finalizare in cadrul simularilor.
-• Reprezentare grafica a distributiei timpilor de finalizare.
-	• Estimarea punctului de oprire a activitatii
-• Calcularea probabilitatii ca activitatea sa se opreasca inainte de etapa  k .
-• Afisarea graficului corespunzator pentru vizualizarea distributiei.
-	• Vizualizare si interpretare
-• Compararea rezultatelor obtinute prin simulare cu valorile teoretice.
+* Simulare a timpului total de finalizare a activitatii
+* Generarea a 10^6 valori pentru variabila T  folosind distributia exponentiala.
+	* Estimarea valorii medii a timpului total  E(T) 
+* Calcularea mediei empirice pe baza valorilor simulate.
+* Compararea cu valoarea exacta obtinuta analitic.
+	* Analiza probabilistica a finalizarii activitatii
+* Estimarea probabilitatii ca activitatea sa fie finalizata.
+* Determinarea probabilitatii ca activitatea sa fie finalizata in mai putin de un timp  anume
+	* Identificarea limitelor timpului de finalizare
+* Determinarea timpului minim si maxim de finalizare in cadrul simularilor.
+* Reprezentare grafica a distributiei timpilor de finalizare.
+	* Estimarea punctului de oprire a activitatii
+* Calcularea probabilitatii ca activitatea sa se opreasca inainte de etapa  k .
+* Afisarea graficului corespunzator pentru vizualizarea distributiei.
+	* Vizualizare si interpretare
+* Compararea rezultatelor obtinute prin simulare cu valorile teoretice.
 
 #### Descriere
 Problema se poate imparti in mai multe subprobleme
